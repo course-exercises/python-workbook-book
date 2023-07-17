@@ -1,5 +1,4 @@
 # exercise 1
-import math
 
 print("my name is Mohammad", "my Email address is : " , "sites.me56@gmail.com")
 
